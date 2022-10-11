@@ -1,5 +1,2 @@
-# Python Project using pillow, tesseract, and opencv.
- - Use the opencv library to detect faces in image files with python.
- - Understand how to apply python knowledge to solve problems with toolkits.
- - Use the kraken library to improve text detection in OCR with python.
-
+# Face Detection Newspaper
+ A python based project in which a contact sheet of facial image is created if the user input string is on the page . Py-Tesseract is used to go through text to find input on the image while Open-CV library is used to detect faces on the images and with the help of Pillow image manipulation and contact sheet formation .
